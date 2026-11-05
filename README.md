@@ -1,27 +1,29 @@
-## `Hey there!`
+## `Hey there! ✌🏼`
 
-I'm Nyamekye(Jailbreak), a UI Engineer from Ghana.
-
-
+I'm Nyamekye (Jailbreak), a Software Developer from Ghana.
+I'm work mainly on frontend and UI/UX stuff, and help out with backend when I can.
+Feel free to explore my projects, they're all thoughtfully designed and built!
 ______________________________________________________
 
 ### My Tech Stack
-- Typescript
-- Tailwind CSS
-- React(NextJS & Vite)
-- AI(Obviously)
+- Typescript, Tailwind, React
+- Framer Motion & GSAP for animations
+- Figma | VS Code | Pen & Paper (Can't go wrong with these)
+- AI(Don't we all?)
 
-### My Go-To Tools
-- Figma
-- VS Code
-- Pen and Paper (Can't go wrong with those)
+____________
 
-### Hobbies?
-- Gaming
-- Playing Guitar
-- PC Building
-- Anything creative honestly✨
-You can check out my IG for the other side of me~
+### More About Me~
+- Gaming🎮
+- Playing Guitar🎸
+- PC Building💻
+- Trying out new things✨
+____________________
+### How to Reach Me?
+Send mail to:
+`nyamekye.works@gmail.com`
+
+Or dm me via LinkedIn
 <!--
 **jailbreak-0/jailbreak-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
