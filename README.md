@@ -1,11 +1,15 @@
 ## `Hey there!`
 
-I'm Nyamekye(Jailbreak), a UI Engineer from Ghana
+I'm Nyamekye(Jailbreak), a UI Engineer from Ghana.
+
+
+______________________________________________________
 
 ### My Tech Stack
 - Typescript
 - Tailwind CSS
 - React(NextJS & Vite)
+- AI(Obviously)
 
 ### My Go-To Tools
 - Figma
