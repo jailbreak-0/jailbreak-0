@@ -1,6 +1,6 @@
 ## `Hey there! ✌🏼`
 
-I'm Nyamekye (Jailbreak), a Software Developer from Ghana.
+I'm Nyamekye, a Software Developer from Ghana.
 I'm work mainly on frontend and UI/UX stuff, and help out with backend when I can.
 Feel free to explore my projects, they're all thoughtfully designed and built!
 ______________________________________________________
