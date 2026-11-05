@@ -21,7 +21,7 @@ ____________
 ____________________
 ### How to Reach Me?
 Send mail to:
-<`nyamekye.works@gmail.com`>
+[`nyamekye.works@gmail.com`](nyamekye.works@gmail.com)
 
 Or dm me via LinkedIn
 <!--
